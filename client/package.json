@@ -11,7 +11,7 @@
     "react-scripts": "3.4.1",
     "web3": "^1.2.8"
   },
-  "homepage": "https://tiigamar.github.io/Brownie_test-repo",
+  "homepage": "https://tiigamar.github.io/Brownie_test-Repository",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

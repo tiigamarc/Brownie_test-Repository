@@ -1,0 +1,6 @@
+dotenv: .env 
+
+project_structure:
+    build: client/src/artifacts
+
+dev_deployment_artifacts: true
