@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Brownie_test-Repository/precache-manifest.042d5f8ad833e46ad907a3f8e85ee368.js"
+  "/Brownie_test-Repository/precache-manifest.fdb1267583d804a3fee133f6edea1941.js"
 );
 
 self.addEventListener('message', (event) => {

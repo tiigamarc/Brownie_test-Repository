@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Brownie_test-Repository/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Brownie_test-Repository/static/js/main.1bafb121.chunk.js",
-    "main.js.map": "/Brownie_test-Repository/static/js/main.1bafb121.chunk.js.map",
+    "main.js": "/Brownie_test-Repository/static/js/main.af42ea90.chunk.js",
+    "main.js.map": "/Brownie_test-Repository/static/js/main.af42ea90.chunk.js.map",
     "runtime-main.js": "/Brownie_test-Repository/static/js/runtime-main.e5d4281c.js",
     "runtime-main.js.map": "/Brownie_test-Repository/static/js/runtime-main.e5d4281c.js.map",
-    "static/js/2.c331ef1c.chunk.js": "/Brownie_test-Repository/static/js/2.c331ef1c.chunk.js",
-    "static/js/2.c331ef1c.chunk.js.map": "/Brownie_test-Repository/static/js/2.c331ef1c.chunk.js.map",
+    "static/js/2.db6f3e64.chunk.js": "/Brownie_test-Repository/static/js/2.db6f3e64.chunk.js",
+    "static/js/2.db6f3e64.chunk.js.map": "/Brownie_test-Repository/static/js/2.db6f3e64.chunk.js.map",
     "static/js/3.6cc0ce1c.chunk.js": "/Brownie_test-Repository/static/js/3.6cc0ce1c.chunk.js",
     "static/js/3.6cc0ce1c.chunk.js.map": "/Brownie_test-Repository/static/js/3.6cc0ce1c.chunk.js.map",
     "static/js/4.bf652a46.chunk.js": "/Brownie_test-Repository/static/js/4.bf652a46.chunk.js",
     "static/js/4.bf652a46.chunk.js.map": "/Brownie_test-Repository/static/js/4.bf652a46.chunk.js.map",
     "index.html": "/Brownie_test-Repository/index.html",
-    "precache-manifest.042d5f8ad833e46ad907a3f8e85ee368.js": "/Brownie_test-Repository/precache-manifest.042d5f8ad833e46ad907a3f8e85ee368.js",
+    "precache-manifest.fdb1267583d804a3fee133f6edea1941.js": "/Brownie_test-Repository/precache-manifest.fdb1267583d804a3fee133f6edea1941.js",
     "service-worker.js": "/Brownie_test-Repository/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Brownie_test-Repository/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c331ef1c.chunk.js.LICENSE.txt": "/Brownie_test-Repository/static/js/2.c331ef1c.chunk.js.LICENSE.txt"
+    "static/js/2.db6f3e64.chunk.js.LICENSE.txt": "/Brownie_test-Repository/static/js/2.db6f3e64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e5d4281c.js",
-    "static/js/2.c331ef1c.chunk.js",
+    "static/js/2.db6f3e64.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1bafb121.chunk.js"
+    "static/js/main.af42ea90.chunk.js"
   ]
 }
